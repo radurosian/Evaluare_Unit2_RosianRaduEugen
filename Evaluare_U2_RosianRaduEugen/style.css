@@ -1,0 +1,38 @@
+body {
+  background-color: #DCDCDC;
+}
+#diag {
+  border-radius: 8px;
+  display: block;
+  padding: 1px;
+  opacity: 1;
+  margin-left: auto;
+  margin-right: auto;
+}
+* {
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  box-sizing:border-box
+}
+table, tr, td {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.container {
+  margin: auto;
+  width: 50%;
+  padding: 10px;  
+}
+
+div > img{
+	height:600px;
+    width:600px;
+    border-radius: 8px;
+}
+h1, h2, h3, h4 {
+  font-size: 40px;
+  text-align: center;
+}
